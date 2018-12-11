@@ -1,3 +1,7 @@
+
+canvas_dev/
 live_envir.json
 ares_issue_observer.json
 client_secret.json
+*/*.csv
+*.csv
